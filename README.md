@@ -1,5 +1,5 @@
 # 📊 Spotify Data Analysis Using PostgreSQL
-
+![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg)
 ## 📌 Project Overview
 This project aims to analyze a Spotify dataset using **PostgreSQL**. The dataset contains various song attributes, such as artist details, album information, song characteristics, streaming numbers, and user engagement metrics. The goal is to derive insights into song trends, artist popularity, streaming preferences, and engagement metrics.
 
